@@ -1,9 +1,9 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
+//Name -juan rondan
 //Date -
-//Class -
+//Class - 4th period
 //Lab  -
 
 import static java.lang.System.*;
